@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import os
-os.chdir("C:/Users/samue/Documents/Cours/M1 Maths et IA/Projet DL")
 import train
 import models
 
